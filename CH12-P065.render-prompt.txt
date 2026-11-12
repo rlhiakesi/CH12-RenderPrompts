@@ -1,0 +1,7 @@
+Render CH12-P065 strictly according to page.json and Assets/ references.
+Use full-color manga, preserve panel geometry and all safe-area constraints.
+Artwork and lettering must be separate; do not flatten them.
+Produce exactly three coordinated files (art PNG, transparent lettering PNG, text TXT).
+Story lettering rule: use exact text and speaker ownership from the transcript; CSP final lettering uses ALL CAPS, consistent comic sans-serif, no bold.
+Do not draw page numbers, panel numbers, title panels or source directives.
+Do not treat context-only assets as visible cast requirements.
